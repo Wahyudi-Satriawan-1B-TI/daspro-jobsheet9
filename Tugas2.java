@@ -32,8 +32,7 @@ public class Tugas2 {
     }
     System.out.println("==================== DAFTAR PESANAN ====================");
     for (int i = 0; i < pesanan.length; i++){
-        int w = 1;
-        System.out.println(w + ". " + pesanan [i]);
+        System.out.println((i+1) + ". " + pesanan [i]);
     }
     System.out.println("Total Biaya: Rp " + hitung);
     System.out.println("========================================================");
