@@ -49,9 +49,3 @@ public class Tugas1 {
     System.out.println("========================================================");
     }
 }
-/*
-- memasukkan banyaknya nilai mahasiswa yang akan diinput,
-- memasukkan setiap nilai mahasiswa,
-- menghitung nilai rata-rata,
-- menampilkan nilai tertinggi dan nilai terendah, serta
-- menampilkan semua nilai yang telah dimasukkan.*/
